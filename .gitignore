@@ -1,0 +1,6 @@
+.env
+test/
+.vscode/
+node_modules/
+dist/
+*.log
